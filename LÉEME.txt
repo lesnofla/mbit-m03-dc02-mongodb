@@ -1,0 +1,9 @@
+/* 
+/* Descargar paquete de instalación para Windows 64-bit de MongoDB
+/* 
+/* https://dl.mongodb.org/dl/win32/x86_64
+/*
+/* Tip: para utilizar el método mongoimport, hay que hacerlo desde un terminal (Windows o Linux), no desde la shell de MongoDB. 
+/*
+/* Funciones utilizadas: db.collection.find(), db.collection.count(), db.collection.distinct(), db.collection.aggregate()
+/*  
